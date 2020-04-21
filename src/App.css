@@ -1,7 +1,45 @@
+
 .App {
   text-align: center;
 }
+.bg-primary {
+  background-color: #13263a!important;
+}
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+  font-size: 35px;
+  animation: coloring 10s 15 linear;
 
+}
+@keyframes coloring {
+
+  0% {
+      color: rgb(226, 47, 47);
+  }
+  50%{
+      color: rgb(133, 0, 221);
+  }
+  100%{
+      color: rgb(6, 231, 201);
+  }
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  animation: coloring 10s 15 linear;
+
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(207, 207, 207);
+  animation: coloring 10s 15 linear;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
