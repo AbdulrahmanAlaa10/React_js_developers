@@ -1,0 +1,197 @@
+{
+
+    "Videos" : [
+        {
+            "id" : 1,
+            "name" : "Mohamed Sawwaf",
+            "JobName" : "Front-end developer",
+            "img" : "/images/ammer.jpg",
+            "age" : "23 Years",
+            "companynow" : "Software House Company",
+            "data" : "2/10/1996",
+            "github" : "",
+            "level" : "Junior",
+            "profile" : "I am a detail-oriented, curious Front-end Developer with a getting-it-done, on-time and high-quality product spirt who is passionate about building innovative user-friendly websites and applications using a variety of programming languages and technologies like HTML CSS JavaScript and React.",
+            "linkedin" : "", 
+            "salray" : "5000$",
+            "qualification" : "HTML, Css, HTML5, Css3, Bootstrap4, JavaScript, ECMAScript6, Git & GitHub, Json & Ajax, React.Js, Redux",
+            "faculty" : "Computer and Information"
+        }
+    ], 
+
+    "Videos1" : [
+        
+                {
+                    "id" : 1,
+                    "name" : "Ahmed Alaa",
+                    "JobName" : "Front-end developer",
+                    "img" : "/images/ahmeed.jpg",
+                    "age" : "24 Years",
+                    "salray" : "4500$",
+                    "data" : "13/8/1996",
+                    "level" : "Junior",
+                    "companynow" : "Spoken Company",
+                    "qualification" : "HTML, Css, HTML5, Css3, Bootstrap3, Bootstrap4, JavaScript, ECMAScript6, Git & GitHub, Json & Ajax, Anguler.Js",
+                    "faculty" : "Computer and Information",
+                    "profile" : "Assisted in the monitoring and reporting on website traffic and performance Created HTML email templates and newsletters for e-mail marketing campaigns Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase."
+                }
+                    
+    ], 
+    "Videos2" : [
+        
+        {
+            "id" : 1,
+            "name" : "Medhat Dawwad",
+            "JobName" : "Front-end developer",
+            "img" : "/images/KOdxkOwx_400x400.jpg",
+            "age" : "30 Years",
+            "salray" : "7500$",
+            "data" : "13/8/1990",
+            "level" : "Senioer",
+            "companynow" : "Holand Company",
+            "qualification" : "HTML, Css, HTML5, Css3, Bootstrap3, Bootstrap4, JavaScript, ECMAScript6, Git & GitHub, Json & Ajax, Anguler.Js, TypeScript",
+            "faculty" : "Computer and Information",
+            "profile" : "Develop new user-facing features using React Build reusable web components for future use Ensure the technical feasibility of UI/UX designs Optimize application for maximum speed and scalability Assure that all user input is validated before submitting to back-end Collaborate with other team members and stakeholders."
+        }
+            
+], 
+
+
+   
+    "Resource" : [
+        {
+            "id" : 1,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt",
+            "videos2" : "https://www.youtube.com/channel/UCq_xgufsy1KrGsmJq7mFH-g/playlists",
+            "img" : "/images/html.png",
+            "title" : "Course HTML in Arabic"
+
+        },
+        {
+            "id" : 2,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAzAeIcXA3_JsmSkPKOs9W-Y",
+            "videos2" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX",
+            "img" : "/images/css.png",
+            "title" : "Course Css in Arabic"
+        },
+        {
+            "id" : 3,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts",
+            "videos2" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kG5SWAH-uHqqZtPbUkNm2RY",
+            "img" : "/images/bootstrap-wallpaper.png",
+            "title" : "Course Bootstrap3 in Arabic"
+        },
+        {
+            "id" : 4,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "Name3" : "Coder Shiyar",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ",
+            "videos2" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kEr1o13ggD6-nXaANPFMYFj",
+            "videos3" : "https://www.youtube.com/playlist?list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz",
+            "img" : "/images/unnamed.png",
+            "title" : "Course HTML5 in Arabic"
+        },
+        {
+            "id" : 5,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "Name3" : "Coder Shiyar",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC",
+            "videos2" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kEry0gyNDDxTrQ_ATbOn9-t",
+            "videos3" : "https://www.youtube.com/playlist?list=PLMTdZ61eBnyoxjc9Prw0uhwgp6YZ2-_sg",
+            "img" : "/images/css3.jpg",
+            "title" : "Course Css&Css3 in Arabic"
+        },
+        {
+            "id" : 6,
+            "Name" : "Elzero Web School",
+            "Name2" : "Unique Coderz Academy",
+            "Name3" : "Coder Shiyar",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2",
+            "videos2" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe",
+            "videos3" : "https://www.youtube.com/playlist?list=PLMTdZ61eBnyrPiX-b1MNG-MSPAJ0OgpHA",
+            "img" : "/images/unnamed11.png",
+            "title" : "Course Bootstrap4 in Arabic"
+        },
+        {
+            "id" : 7,
+            "Name2" : "Elzero Web School",
+            "Name" : "Kmr Script",
+            "Name3" : "Coder Shiyar",
+            "videos" : "https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm",
+            "videos2" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh",
+            "videos3" : "https://www.youtube.com/playlist?list=PLMTdZ61eBnyp1nMM8mGRzpwuu6FNxFy0D",
+            "img" : "/images/Javascript.jpg",
+            "title" : "Course Javascript in Arabic"
+        },
+        {
+            "id" : 8,
+            "Name" : "Elzero Web School",
+            "Name2" : "Elzero Web School",
+            "Name3" : "Unique Coderz Academy",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i",
+            "videos2" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAy9nFRJgVYgEID8xE2a6q6V",
+            "videos3" : "https://www.youtube.com/watch?v=w5xjDdHbmPU&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=35&t=0s",
+            "img" : "/images/images.png",
+            "title" : "Course Dom/Bom.js in Arabic"
+
+        },
+        {
+            "id" : 9,
+            "Name3" : "Medhat Dawoud",
+            "Name2" : "Kmr Script",
+            "Name" : "Elzero Web School",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M",
+            "videos2" : "https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT",
+            "videos3" : "https://www.youtube.com/playlist?list=PLANjs1H0YEnSVe6rsjfoQzSmVk_BMJRRt",
+            "img" : "/images/ecmas6_2.png",
+            "title" : "Course ECMAScript6 in Arabic"
+            
+        },
+        {  
+            "id" : 10,
+            "Name" : "Elzero Web School",
+            "Name2" : "TheNewBaghdad",
+            "videos" : "https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF",
+            "videos2" : "https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM",
+            "img" : "/images/1_qwFrTMnFkcd3U9rFKwwacw.png",
+            "title" : "Course Git&GitHub in Arabic"
+
+        },
+        {  
+            "id" : 11,
+            "Name" : "Unique Coderz Academy",
+            "Name2" : "Unique Coderz Academy",
+            "videos" : "https://www.youtube.com/watch?v=-V7O_uXW1vg&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=33&t=22s",
+            "videos2" : "https://www.youtube.com/watch?v=HM4sxMRdrmY&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=34&t=1566s",
+            "img" : "/images/JSON-vs-AJAX-1.png",
+            "title" : "Course Json & Ajax in Arabic"
+
+        },
+        {
+    
+            "id" : 12,
+            "Name" : "Unique Coderz Academy",
+            "Name2" : "GoArabGo",
+            "videos" : "https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW",
+            "videos2" : "https://www.youtube.com/playlist?list=PL1FWK-sgJ9el-axKTMU_1l5PEyv7tn-wk",
+            "img" : "/images/addthis-react-flux-javascript-scaling.png",
+            "title" : "Course React.Js in Arabic"
+    
+            
+        }
+
+
+    ]
+
+
+}
+
+  

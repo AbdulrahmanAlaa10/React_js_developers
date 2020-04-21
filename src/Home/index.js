@@ -198,22 +198,22 @@ export default function Home(){
     </div>
   </div>
  </div>
- <div class="portfolio">
-            <h2 class="portfolio-title"><span></span> The Best Websites to learn code</h2>
-            <ul class="portfolio-list">
-            <a href="https://www.edx.org/" target="_blank"><li class="portfolio-item active">edX</li></a>
-            <a href="https://developer.mozilla.org/ar/docs/Mozilla"  target="_blank"><li class="portfolio-item">MDN</li></a>
-            <a href="https://github.com/"  target="_blank"><li class="portfolio-item">Github</li></a>
-            <a href="https://www.w3schools.com/"  target="_blank"><li class="portfolio-item">w3schools</li></a>
-            <a href="https://www.udemy.com/"  target="_blank"><li class="portfolio-item">Udemy</li></a>
-            <a href="https://www.coursera.org/"  target="_blank"><li class="portfolio-item">Coursera</li></a>
-            <a href="https://www.codecademy.com/"  target="_blank"><li class="portfolio-item">Code_cadmey</li></a>
+ <div className="portfolio">
+            <h2 className="portfolio-title"><span></span> The Best Websites to learn code</h2>
+            <ul className="portfolio-list">
+            <a href="https://www.edx.org/" target="_blank"><li className="portfolio-item active">edX</li></a>
+            <a href="https://developer.mozilla.org/ar/docs/Mozilla"  target="_blank"><li className="portfolio-item">MDN</li></a>
+            <a href="https://github.com/"  target="_blank"><li className="portfolio-item">Github</li></a>
+            <a href="https://www.w3schools.com/"  target="_blank"><li className="portfolio-item">w3schools</li></a>
+            <a href="https://www.udemy.com/"  target="_blank"><li className="portfolio-item">Udemy</li></a>
+            <a href="https://www.coursera.org/"  target="_blank"><li className="portfolio-item">Coursera</li></a>
+            <a href="https://www.codecademy.com/"  target="_blank"><li className="portfolio-item">Code_cadmey</li></a>
             </ul>
-            <div class="box">
+            <div className="box">
                 
                 <div>
                     <img src="images/edX_Logo_Col_RGB_FINAL.jpg" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://www.edx.org/" target="_blank">Go Website</a>  
                         </span>
@@ -222,7 +222,7 @@ export default function Home(){
 
                 <div>
                     <img src="images/mozalia.jpg" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://developer.mozilla.org/ar/docs/Mozilla" target="_blank">Go Website</a>  
                         </span>
@@ -231,7 +231,7 @@ export default function Home(){
 
                 <div>
                     <img src="images/github.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://github.com/" target="_blank">Go Website</a>  
                         </span>
@@ -240,7 +240,7 @@ export default function Home(){
 
                 <div>
                     <img src="images/qVr_MxvA_400x400.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://www.w3schools.com/" target="_blank">Go Website</a>  
                         </span>
@@ -249,7 +249,7 @@ export default function Home(){
 
                 <div>
                     <img src="images/coursera-intro-e1509280431491.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://www.coursera.org/" target="_blank">Go Website</a>  
                         </span>
@@ -258,7 +258,7 @@ export default function Home(){
                 
                 <div>
                     <img src="images/udemy.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://www.udemy.com/" target="_blank">Go Website</a>  
                         </span>
@@ -267,7 +267,7 @@ export default function Home(){
 
                 <div>
                 <img src="images/code-academy.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                          <a href="https://www.codecademy.com/" target="_blank">Go Website</a>  
                         </span>
@@ -276,7 +276,7 @@ export default function Home(){
                 
                 <div>
                     <img src="images/fcc-og-1200-social-green.png" alt="" />
-                    <p class="overlay">
+                    <p className="overlay">
                         <span>
                         <a href="https://www.freecodecamp.org/" target="_blank">Go Website</a>  
                         </span>
@@ -302,29 +302,29 @@ export default function Home(){
             </div>
         </div>
 
-<div class="social-media">
+<div className="social-media">
             
-            <div class="social face">
-                <i class="icon fa fa-facebook fa-lg"></i>
+            <div className="social face">
+                <i className="icon fa fa-facebook fa-lg"></i>
                 <p>
-                    <span class="info1">Follow Me on</span>
-                    <span class="info2">Social Facebook</span>
+                    <span className="info1">Follow Me on</span>
+                    <span className="info2">Social Facebook</span>
                 </p>
             </div>
             
-            <div class="social twitter">
-                <i class="icon fa fa-twitter fa-lg"></i>
+            <div className="social twitter">
+                <i className="icon fa fa-twitter fa-lg"></i>
                 <p>
-                    <span class="info1">Tweet Me on</span>
-                    <span class="info2">Social twitter</span>
+                    <span className="info1">Tweet Me on</span>
+                    <span className="info2">Social twitter</span>
                 </p>
             </div>
             
-            <div class="social pin">
-                <i class="icon fa fa-pinterest fa-lg"></i>
+            <div className="social pin">
+                <i className="icon fa fa-pinterest fa-lg"></i>
                 <p>
-                    <span class="info1">Pin Me on</span>
-                    <span class="info2">Social Pinterest</span>
+                    <span className="info1">Pin Me on</span>
+                    <span className="info2">Social Pinterest</span>
                 </p>
             </div>
         </div>
