@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alaaboody65.github.io/my-react/",
+  "homepage": "http://alaaboody65.github.io/my-react",
   "name": "frontend-app",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,9 @@
     "axios": "^0.19.2",
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2",
+    "gh": "^2.8.6",
     "gh-pages": "^2.2.0",
+    "pages": "0.0.16",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-is": "^16.13.1",
@@ -20,8 +22,8 @@
     "styled-components": "^5.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predepoly": "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
